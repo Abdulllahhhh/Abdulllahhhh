@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi, I'm Abdullah >_<
+--
+I'm University student interested in AI , Machine Learning and Deep Learning
+Self-learning with hands on academic projects
 
-<!--
-**Abdulllahhhh/Abdulllahhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning on my own, building database projects and practicing data analysis while improving my skills.
+--
+## Tools
+- Python, Pandas , Seaborn , OpenCV , Scikit-learn
+- SQL, MySQL , Database Design , Normalization , MongoDB
+- Power BI , (Data Visualization & Dashboards)
