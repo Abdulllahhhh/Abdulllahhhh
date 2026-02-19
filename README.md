@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Abdullah
+# Hi, I'm Abdullah
 
-I'm a **University Student** passionate about **AI, Machine Learning, and Deep Learning**. 
-I specialize in self-learning through **hands-on projects**, currently focusing on database architecture and advanced data analysis.
-
+I'm a University student interested in AI , Machine Learning and Deep Learning Self-learning with hands on projects
 ---
 
 ## 🛠 Tools & Technologies
@@ -16,3 +14,16 @@ I specialize in self-learning through **hands-on projects**, currently focusing 
 ## 🚀 Current Focus
 * Building robust database-driven applications.
 * Improving predictive modeling skills.
+
+
+-------------------------------
+
+I'm a University student interested in AI , Machine Learning and Deep Learning Self-learning with hands on projects
+
+I’m currently learning on my own, building database projects and practicing data analysis while improving my skills.
+
+## Tools & Technologies
+
+- Python (Pandas, Seaborn, OpenCV, Scikit-learn)
+- SQL, MySQL, Database Design, Normalization, MongoDB
+- Power BI (Data Visualization & Dashboards)
