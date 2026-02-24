@@ -1,8 +1,8 @@
 ## Hi, I'm Abdullah
 
-I'm a IT student interested in AI , Machine Learning and Deep Learning Self-learning with hands on projects.
+I'm an IT student interested in Artificial Intelligence, Machine Learning, and Deep Learning. I improve my skills through self-learning and hands-on projects.
 
-I’m currently learning on my own, building database projects and practicing data analysis while improving my skills.
+I am currently learning independently, building database projects, and practicing data analysis to improve my skills.
 
 ## Tools & Technologies
 
