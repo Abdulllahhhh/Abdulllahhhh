@@ -6,6 +6,6 @@ I am currently learning independently, building database projects, and practicin
 
 ## Tools & Technologies
 
+- Power BI: ( Data Visualization & Dashboards )
 - Python: (`Pandas`, `Seaborn`, `OpenCV`, `Scikit-learn`)
 - Databases: ( SQL, MySQL, Database Design, Normalization, MongoDB )
-- Power BI: ( Data Visualization & Dashboards )
