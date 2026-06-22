@@ -7,7 +7,7 @@ I am currently learning independently, building database projects, and practicin
 ## Tools & Technologies
 
 - Deep Learning: TensorFlow, Keras
+- Office Tools: Excel, Word, PowerPoint
 - Power BI: Data Visualization, Dashboards, DAX
-- Office Tools: Microsoft Office, Word, PowerPoint
 - Python: Pandas, NumPy, Seaborn, OpenCV, Scikit-learn
 - Databases: SQL, MySQL, Database Design, ERD, Normalization, MongoDB
