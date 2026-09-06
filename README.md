@@ -1,6 +1,6 @@
 ### Hi, I'm Abdullah
 
-I'm an Information Technology student interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+I’m an Information Technology graduate with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning.
 
 I enjoy building and training AI models, working with data, and improving my skills through self-learning and hands-on projects.
 
